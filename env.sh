@@ -1,6 +1,6 @@
 #!/bin/sh
 
-GIT_REPO=git@github.ucsb.edu:cs24-f18/lab01-gs-setup.git
+GIT_REPO=git@github.com:profstudebaker/PRIVATE-231-mp1-autograder.git
 
 
 

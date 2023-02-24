@@ -9,7 +9,7 @@ echo \$REPO_NAME=${REPO_NAME}
 pwd
 cd /autograder/git-repo/${REPO_NAME}
 pwd
-git pull origin master
+git pull origin main
 
 rm -rf deploy_keys
 
